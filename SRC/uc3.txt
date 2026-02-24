@@ -18,7 +18,7 @@ public class OOPSBannerApp {
                 " ***** "
         ));
 
-        System.out.println(String.join(" ",
+        System.out.println(String.join(" ",  //space applied to each horizontal line of code befpre printing,wouldve been practical tp use "\n".
                 "*     *",
                 "*     *",
                 "*     *",
