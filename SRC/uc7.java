@@ -9,7 +9,7 @@
  * @author Developer
  * @version 7.0
  */
-public class OOPSBannerApp {
+public class uc7{
 
     /**
      * Inner static class to store character and its ASCII pattern.
